@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grace_Elias-Simple_News_App</string>
+    <string name="business">Business</string>
+    <string name="health">Health</string>
+    <string name="politics">Politics</string>
+    <string name="pop_culture">Pop Culture</string>
+    <string name="sports">Sports</string>
+</resources>
